@@ -17,6 +17,7 @@
       "severity": "warning"
     },
     "eofline": true,
+    "no-bitwise": false,
     "import-blacklist": [
       true,
       "rxjs/Rx"
